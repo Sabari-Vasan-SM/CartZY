@@ -4,7 +4,5 @@ A new Flutter project.
 
 SCREEENSHOTS :
 
-
-![Untitled design](https://github.com/user-attachments/assets/6cf72e5b-0fd6-46ca-a212-04b994a8c859)
-
-
+![1](https://github.com/user-attachments/assets/dc1d6d2c-968f-4980-bce1-88705a2228ae)
+![2](https://github.com/user-attachments/assets/7659c627-2590-4315-990b-02f47e77598f)
